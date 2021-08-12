@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkuApp", "SkuApp\SkuApp.csproj", "{02741880-170D-4D9D-931E-2EDFCC3BC5F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkuTestProject", "SkuTestProject\SkuTestProject.csproj", "{3B527447-F09E-40F8-BD34-2E2036D76A59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02741880-170D-4D9D-931E-2EDFCC3BC5F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02741880-170D-4D9D-931E-2EDFCC3BC5F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02741880-170D-4D9D-931E-2EDFCC3BC5F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02741880-170D-4D9D-931E-2EDFCC3BC5F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B527447-F09E-40F8-BD34-2E2036D76A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B527447-F09E-40F8-BD34-2E2036D76A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B527447-F09E-40F8-BD34-2E2036D76A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B527447-F09E-40F8-BD34-2E2036D76A59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C57F35F-CAB6-445F-823C-BB202546C167}
+	EndGlobalSection
+EndGlobal
